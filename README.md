@@ -19,7 +19,7 @@ Industrial/Automotive Systems
 ---
 
 ### 🔄️ Phase 0: Engineering Tooling & Constraint Mindset (Active)
-**Goal:** Set-up the engineering environment and build the mindset
+**Goal:** Set-up the engineering environment and build the mindset  
 **Topics:** 
 - [ ] Linux terminal(permissions, processes, environment variables, package management & logs)
 - [ ] Git and GitHub workflow
@@ -27,37 +27,37 @@ Industrial/Automotive Systems
 - [ ] Embedded constraint(memory, timing, power & reliability)
 
 ### 🗓️ Phase 1: C Programming (Planned)
-**Goal:** Build low-level foundational knowledge
+**Goal:** Build low-level foundational knowledge  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 2: C++ Programming (Planned)
-**Goal:** Build upon low-level understanding by moving to C++
+**Goal:** Build upon low-level understanding by moving to C++  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 3: C++ Linux Systems Programming (Planned)
-**Goal:** Transition from simple coding to system-level application software
+**Goal:** Transition from simple coding to system-level application software  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 4: Debugging, Toolchains, Testing & Quality Gates (Planned)
-**Goal:** Build, debug, test, analyze, and diagnose real system-level software
+**Goal:** Build, debug, test, analyze, and diagnose real system-level software  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 5: Embedded Linux Foundations (Planned)
-**Goal:** Build basic knowledge on Embedded Linux applications in user space
+**Goal:** Build basic knowledge on Embedded Linux applications in user space  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 6: Real-Time Linux (Planned)
-**Goal:** Understand deterministic execution on Linux-based embedded systems
+**Goal:** Understand deterministic execution on Linux-based embedded systems  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 7: Firmware, RTOS & Hardware Foundation (Planned)
-**Goal:** Learn firmware to understand hardware, timing, buses, interrupts, and MCU-to-Linux integration
+**Goal:** Learn firmware to understand hardware, timing, buses, interrupts, and MCU-to-Linux integration  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 8: Industrial Layer — MQTT, OPC UA & Industry 4.0 (Planned)
-**Goal:** Learn to build industrial data systems that fit Industry 4.0 environments
+**Goal:** Learn to build industrial data systems that fit Industry 4.0 environments  
 **Topics:** (coming soon)
 
 ### 🗓️ Optional Phase 9: Robotics & Intelligent Machines (Planned)
-**Goal:** This phase builds on the same core stack and adds robotics-specific software
+**Goal:** This phase builds on the same core stack and adds robotics-specific software  
 **Topics:** (coming soon)
