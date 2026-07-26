@@ -1,0 +1,14 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Text Editor / IDE Settings
+.vscode/
+.idea/
+
+# Local Drafts & Temp Files
+# (Drop any private notes or unfinished text in a /drafts folder)
+drafts/
+*.tmp
+*.bak
