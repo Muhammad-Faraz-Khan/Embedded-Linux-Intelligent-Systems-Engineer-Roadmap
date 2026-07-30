@@ -18,17 +18,32 @@ Industrial/Automotive Systems
 ```
 ---
 
-### 🔄️ Phase 0: Engineering Tooling & Constraint Mindset (Active)
+### 🟢 Phase 0: Engineering Tooling & Constraint Mindset (Completed)
 **Goal:** Set-up the engineering environment and build the mindset  
 **Topics:** 
-- [ ] Linux terminal(permissions, processes, environment variables, package management & logs)
-- [ ] Git and GitHub workflow
-- [ ] SSH & remote-target development and Bash scripting for build automation, flashing helpers, tests and log collection
-- [ ] Embedded constraint(memory, timing, power & reliability)
+- [x] Linux terminal for permissions, processes, environment variables, packages & logs
+- [x] Git and GitHub workflows
+- [x] SSH, SCP, & rsync for basic remote access plus file transfer
+- [x] Embedded constraint mindset
+- [x] Bash Scripting fundamental building blocks
 
-### 🗓️ Phase 1: C Programming (Planned)
+---
+
+### 🔄️ Phase 1: C Programming (Active)
 **Goal:** Build low-level foundational knowledge  
-**Topics:** (coming soon)
+**Topics:** 
+- [ ] Pointers, arrays, buffers, stack vs heap memory, structs
+- [ ] Bitwise operations, masks, shifts, binary and hexadecimal representation
+- [ ] Fixed-width integer types, endianness, two's complement
+- [ ] Volatile, memory-mapped I/O, register-level thinking
+- [ ] Digital logic awareness: HIGH/LOW signals, clock signals, voltage levels, pull-ups/pull-downs, debouncing
+**Proof of Competence**
+1. Struct-Based Data System
+2. Number Parser
+3. Sensor Packet Decoder
+4. Circular Buffer
+
+---
 
 ### 🗓️ Phase 2: C++ Programming (Planned)
 **Goal:** Build upon low-level understanding by moving to C++  
@@ -61,3 +76,5 @@ Industrial/Automotive Systems
 ### 🗓️ Optional Phase 9: Robotics & Intelligent Machines (Planned)
 **Goal:** This phase builds on the same core stack and adds robotics-specific software  
 **Topics:** (coming soon)
+
+---
