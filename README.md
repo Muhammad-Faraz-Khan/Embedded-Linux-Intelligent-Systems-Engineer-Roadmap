@@ -36,7 +36,7 @@ Industrial/Automotive Systems
 - [ ] Bitwise operations, masks, shifts, binary and hexadecimal representation
 - [ ] Fixed-width integer types, endianness, two's complement
 - [ ] Volatile, memory-mapped I/O, register-level thinking
-- [ ] Digital logic awareness: HIGH/LOW signals, clock signals, voltage levels, pull-ups/pull-downs, debouncing
+- [ ] Digital logic awareness: HIGH/LOW signals, clock signals, voltage levels, pull-ups/pull-downs, debouncing  
 **Proof of Competence**
 1. Struct-Based Data System
 2. Number Parser
