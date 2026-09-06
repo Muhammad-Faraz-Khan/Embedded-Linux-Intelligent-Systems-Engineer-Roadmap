@@ -7,7 +7,7 @@ C
 ↓
 Modern C++
 ↓
-Computer Architecture \\\& Operating Systems
+Computer Architecture \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\& Operating Systems
 ↓
 Linux System Programming
 ↓
@@ -17,8 +17,6 @@ Networking and Real Time-Concepts
 ↓
 Industrial/Automation Systems
 ```
-
-\---
 
 ### 🟢 Phase 0: Engineering Tooling \& Constraint Mindset (Completed)
 
@@ -31,8 +29,6 @@ Industrial/Automation Systems
 * \[x] Embedded constraint mindset
 * \[x] Bash Scripting fundamental building blocks
 
-\---
-
 ### 🔄️ Phase 1: C Programming (Active)
 
 **Goal:** Build low-level foundational knowledge  
@@ -41,8 +37,6 @@ Industrial/Automation Systems
 * \[x] Pointers, arrays, buffers, stack vs heap memory, structs
 * \[x] Bitwise operations, masks, shifts, binary and hexadecimal representation
 * \[ ] Fixed-width integer types, endianness, two's complement
-
-\---
 
 ### 🗓️ Phase 2: C++ Programming (Planned)
 
@@ -83,6 +77,4 @@ Industrial/Automation Systems
 
 **Goal:** This phase builds on the same core stack and adds robotics-specific software  
 **Topics:** (coming soon)
-
-\---
 
