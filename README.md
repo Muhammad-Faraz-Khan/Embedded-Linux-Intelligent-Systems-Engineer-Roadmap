@@ -7,7 +7,7 @@ C
 ↓
 Modern C++
 ↓
-Computer Architecture \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\& Operating Systems
+Computer Architecture \& Operating Systems
 ↓
 Linux System Programming
 ↓
