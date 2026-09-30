@@ -18,7 +18,7 @@ Networking and Real Time-Concepts
 
 ### 🟢 Phase 0: Basic Foundation (Completed)
 
-**Goal:** Set-up the engineering environment and build the mindset  
+**Goal:** Setting-up the engineering environment and building the mindset  
 **Topics:**
 
 * \[x] Linux terminal navigation and user-permission
@@ -29,7 +29,7 @@ Networking and Real Time-Concepts
 
 ### 🔄️ Phase 1: C Programming Concepts (Active)
 
-**Goal:** Build low-level foundational knowledge  
+**Goal:** Building low-level foundational knowledge  
 **Topics:**
 
 * \[x] C concepts(stack vs heap, pointers, struct and more)
@@ -39,7 +39,7 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 2: C++ Programming (Planned)
 
-**Goal:** Build upon low-level understanding by moving to C++  
+**Goal:** Building upon low-level understanding by moving to C++  
 **Topics:**
 
 * \[ ] Modern C++ concepts(smart pointer, RAII, containers and more)
@@ -48,7 +48,7 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 3: Systems Programming (Planned)
 
-**Goal:** Transition from simple coding to system-level application software  
+**Goal:** Transitioning from simple logic to system-level application software  
 **Topics:**
 
 * \[ ] IPC(Linux sockets, shared memory and message queues)
@@ -56,7 +56,7 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 4: Debugging, Toolchains, Testing \& Quality Gates (Planned)
 
-**Goal:** Build, debug, test, analyze, and diagnose real system-level software
+**Goal:** Building, debugging, testing, and diagnosing real system-level software
 
 **Topics:**
 
@@ -67,7 +67,7 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 5: Industrial Layer — MQTT, OPC UA \& Industry 4.0 (Planned)
 
-**Goal:** Learn to build industrial data systems that fit Industry 4.0 environments  
+**Goal:** Learning to build industrial data-systems that fit Industry 4.0 environments  
 **Topics:**
 
 * \[ ] Industrial messaging protocols
@@ -76,21 +76,21 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 7: Embedded Linux Foundations (Planned)
 
-**Goal:** Build basic knowledge on Embedded Linux applications in user space  
+**Goal:** Building basic knowledge on Embedded Linux applications 
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 8: Real-Time Linux (Planned)
 
-**Goal:** Understand deterministic execution on Linux-based embedded systems  
+**Goal:** Understanding deterministic execution on Linux-based embedded systems  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 9: Firmware, RTOS \& Hardware Foundation (Planned)
 
-**Goal:** Learn firmware to understand hardware, timing, buses, interrupts, and MCU-to-Linux integration  
+**Goal:** Learning firmware to understand hardware, timing, buses, interrupts, and MCU-to-Linux integration  
 **Topics:** (coming soon)
 
-### 🗓️ Optional Phase 10: Robotics \& Intelligent Machines (Planned)
+### 🤖 Optional Phase 10: Robotics \& Intelligent Machines
 
-**Goal:** This phase builds on the same core stack and adds robotics-specific software  
+**Goal:** Adding robotics-specific software stack  
 **Topics:** (coming soon)
 
