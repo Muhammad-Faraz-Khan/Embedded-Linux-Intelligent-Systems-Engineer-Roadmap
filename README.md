@@ -57,7 +57,6 @@ Networking and Real Time-Concepts
 ### 🗓️ Phase 4: Debugging, Toolchains, Testing \& Quality Gates (Planned)
 
 **Goal:** Building, debugging, testing, and diagnosing real system-level software
-
 **Topics:**
 
 * \[ ] Unit testing frameworks
