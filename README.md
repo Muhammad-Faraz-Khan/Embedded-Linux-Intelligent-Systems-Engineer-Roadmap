@@ -75,7 +75,7 @@ Networking and Real Time-Concepts
 
 ### 🗓️ Phase 7: Embedded Linux Foundations (Planned)
 
-**Goal:** Building basic knowledge on Embedded Linux applications 
+**Goal:** Building basic knowledge on Embedded Linux applications  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 8: Real-Time Linux (Planned)
