@@ -28,7 +28,7 @@ Real-World Application
 
 ### 🟢 Phase 1: C Programming (Completed)
 
-**Goal:** Building low-level programming familiarity
+**Goal:** Building low-level programming familiarity  
 **Topics:**
 
 * \[x] C concepts(e.g. stack vs heap, pointers, struct)
@@ -37,7 +37,7 @@ Real-World Application
 
 ### 🔄️ Phase 2: C++ Programming (Active)
 
-**Goal:** Building upon phase 1 by advancing to Modern C++ topics  
+**Goal:** Building upon phase 1 by advancing to Modern C++  
 **Topics:**
 
 * \[ ] Modern C++ concepts(smart pointer, RAII, containers and more)
@@ -57,7 +57,7 @@ Real-World Application
 
 ### 🗓️ Phase 5: Debugging, Profiling and Tracing (Planned)
 
-**Goal:** Gaining debugging and optimization knowledge
+**Goal:** Gaining debugging and optimization knowledge  
 **Topics:** (coming soon)
 
 ### 🗓️ Phase 6: Real-Time Linux Kernel (Planned)
@@ -71,5 +71,4 @@ Real-World Application
 
 ### 🤖 Optional Phase 9: Robotics 
 
-**Goal:** Adding robotics-specific software stack 
-**Topics:** (coming soon)
+**Goal:** Adding robotics-specific software stack
