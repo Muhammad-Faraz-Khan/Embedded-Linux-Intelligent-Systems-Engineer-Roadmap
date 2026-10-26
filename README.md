@@ -3,93 +3,73 @@
 ## Learning Path (Summary)
 
 ```text
-C Concepts
+C
 ↓
 Modern C++
 ↓
-Linux System Programming
+Systems Programming
 ↓
-Industrial/Automotive Systems
+Embedded Linux
 ↓
-Embedded Linux Systems
+Real-Time Linux
 ↓
-Networking and Real Time-Concepts
+Real-World Application
 ```
 
 ### 🟢 Phase 0: Basic Foundation (Completed)
 
-**Goal:** Setting-up the engineering environment and building the mindset  
+**Goal:** Creating the right mindset  
 **Topics:**
 
-* \[x] Linux terminal navigation and user-permission
+* \[x] Linux basics
 * \[x] Git basics
-* \[x] Managing processes \& networking basics
 * \[x] Embedded constraint mindset
 * \[x] Bash scripting basics
 
-### 🔄️ Phase 1: C Programming Concepts (Active)
+### 🟢 Phase 1: C Programming (Completed)
 
-**Goal:** Building low-level foundational knowledge  
+**Goal:** Building low-level programming familiarity
 **Topics:**
 
-* \[x] C concepts(stack vs heap, pointers, struct and more)
-* \[ ] Bitwise masking/shifting and endianness
-* \[ ] Data structures(ring-buffers, FIFO queues \& FSM)
-* \[ ] Linux OS interface basics
+* \[x] C concepts(e.g. stack vs heap, pointers, struct)
+* \[x] Bitwise operation and endianness
+* \[x] Data structures
 
-### 🗓️ Phase 2: C++ Programming (Planned)
+### 🔄️ Phase 2: C++ Programming (Active)
 
-**Goal:** Building upon low-level understanding by moving to C++  
+**Goal:** Building upon phase 1 by advancing to Modern C++ topics  
 **Topics:**
 
 * \[ ] Modern C++ concepts(smart pointer, RAII, containers and more)
-* \[ ] POSIX syscalls
-* \[ ] Concurrency \& Threading
 
 ### 🗓️ Phase 3: Systems Programming (Planned)
 
-**Goal:** Transitioning from simple logic to system-level application software  
+**Goal:** Learning how to write system-level calls  
 **Topics:**
 
-* \[ ] IPC(Linux sockets, shared memory and message queues)
-* \[ ] Linux system services(systemd)
+* \[ ] Filesystem, memory-architecture, execution, concurrency and scheduling
+* \[ ] Communication, networking, system-administration and runtime
 
-### 🗓️ Phase 4: Debugging, Toolchains, Testing \& Quality Gates (Planned)
+### 🗓️ Phase 4: Embedded Linux (Planned)
 
-**Goal:** Building, debugging, testing, and diagnosing real system-level software
-**Topics:**
-
-* \[ ] Unit testing frameworks
-* \[ ] Profiling \& debugging
-* \[ ] Basic cross compilation
-* \[ ] Containerization basics
-
-### 🗓️ Phase 5: Industrial Layer — MQTT, OPC UA \& Industry 4.0 (Planned)
-
-**Goal:** Learning to build industrial data-systems that fit Industry 4.0 environments  
-**Topics:**
-
-* \[ ] Industrial messaging protocols
-
-### 🚀 Phase 6: Portfolio Projects
-
-### 🗓️ Phase 7: Embedded Linux Foundations (Planned)
-
-**Goal:** Building basic knowledge on Embedded Linux applications  
+**Goal:** Building hardware knowledge for applications  
 **Topics:** (coming soon)
 
-### 🗓️ Phase 8: Real-Time Linux (Planned)
+### 🗓️ Phase 5: Debugging, Profiling and Tracing (Planned)
+
+**Goal:** Gaining debugging and optimization knowledge
+**Topics:** (coming soon)
+
+### 🗓️ Phase 6: Real-Time Linux Kernel (Planned)
 
 **Goal:** Understanding deterministic execution on Linux-based embedded systems  
 **Topics:** (coming soon)
 
-### 🗓️ Phase 9: Firmware, RTOS \& Hardware Foundation (Planned)
+### 🗓️ Phase 7: Real-World Application Layer (Planned)
 
-**Goal:** Learning firmware to understand hardware, timing, buses, interrupts, and MCU-to-Linux integration  
+**Goal:** Developing user-space applications
+
+### 🤖 Optional Phase 9: Robotics 
+
+**Goal:** Adding robotics-specific software stack 
 **Topics:** (coming soon)
-
-### 🤖 Optional Phase 10: Robotics \& Intelligent Machines
-
-**Goal:** Adding robotics-specific software stack  
-**Topics:** (coming soon)
-
